@@ -1,0 +1,8 @@
+.DS_Store
+vendor
+Gopkg.lock
+.vscode
+.idea
+dist
+configs/authr-dev.config.yml
+local.http
